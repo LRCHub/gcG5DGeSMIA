@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Turn Up feat.T-PABLOW,SKY-HI（feat. T-PABLOW、SKY-HI）",
+  "base_artist": "KEN THE 390",
+  "createdAt": "2026-02-08T00:57:25.395466Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Turn Up feat. T-PABLOW, SKY-HI",
+      "artist": "KEN THE 390",
+      "has_synced": false,
+      "path": "select/pl_01_Turn_Up_feat._T-PABLOW,_SKY-HI_KEN_THE_390.txt"
+    }
+  ]
+}
